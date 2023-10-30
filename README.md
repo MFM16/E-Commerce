@@ -1,6 +1,6 @@
-# E-Commerce
+# E-CommThis 
 
-//fgdhkj
+//This website is build using VUE JS and Laravel, you can download it and modified
 
 ## Project setup
 ```
